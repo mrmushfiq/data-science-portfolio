@@ -3,9 +3,9 @@ Repository containing portfolio of data science projects completed by me for sel
 
 # Contents
 ## Data Science 
-   - [US Birth Data Analysis](https://github.com/mrmushfiq/data-science-portfolio/blob/master/us_births/us_births.ipynb): Analysis US births data
+   - [US Birth Data Analysis](https://github.com/mrmushfiq/data-science-portfolio/blob/master/us_births/us_births.ipynb): Analysis of US births data
 
-   - [Exploring US Gun Deaths](https://github.com/mrmushfiq/data-science-portfolio/blob/master/gun_deaths_us/us_gun_deaths.ipynb): Analysis US births data   
+   - [Exploring US Gun Deaths](https://github.com/mrmushfiq/data-science-portfolio/blob/master/gun_deaths_us/us_gun_deaths.ipynb): Exploring US gun deaths and violence.    
 
 ## Financial Data Aanalysis
 
