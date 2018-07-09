@@ -2,7 +2,7 @@
 Repository containing portfolio of data science projects completed by me for self learning, and hobby purposes. Presented in the form of iPython Notebooks.
 
 # Contents
-## Data Science 
+## General Data Science 
    - [US Birth Data Analysis](https://github.com/mrmushfiq/data-science-portfolio/blob/master/us_births/us_births.ipynb): Analysis of US births data
 
    - [Exploring US Gun Deaths](https://github.com/mrmushfiq/data-science-portfolio/blob/master/gun_deaths_us/us_gun_deaths.ipynb): Exploring US gun deaths and violence.    
@@ -31,3 +31,10 @@ Repository containing portfolio of data science projects completed by me for sel
 - ### Stock Market Analysis
 
 	- [American Auto Manufacturer Stock Analysis ](https://github.com/mrmushfiq/python_meets_finance/blob/master/stock_analysis/auto%20manufacturers_Stock_Analysis.ipynb):  We analyze the stocks of American Auto Manufacturers Ford, GM and Tesla. 
+
+
+## General Data Science 
+   - [US Birth Data Analysis](https://github.com/mrmushfiq/data-science-portfolio/blob/master/us_births/us_births.ipynb): Analysis of US births data
+
+   - [Exploring US Gun Deaths](https://github.com/mrmushfiq/data-science-portfolio/blob/master/gun_deaths_us/us_gun_deaths.ipynb): Exploring US gun deaths and violence.    
+
