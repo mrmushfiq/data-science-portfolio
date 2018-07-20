@@ -28,6 +28,10 @@ Repository containing portfolio of data science projects completed by me for sel
 
 	- [American Auto Manufacturer Stock Analysis ](https://github.com/mrmushfiq/python_meets_finance/blob/master/stock_analysis/auto%20manufacturers_Stock_Analysis.ipynb):  We analyze the stocks of American Auto Manufacturers Ford, GM and Tesla. 
 
+## Machine Learning Projects
+
+   - [ A Simple Movie Recommender ](https://github.com/mrmushfiq/data-science-portfolio/blob/master/simple_movie_recommender/simple_movie_recommender.ipynb): A simple movie recommender is developed. Using scikit learn, initially the Term Frequency-Inverse Document Frequency (TF-IDF) vectors where computed and then cosine similarities were calcualted.
+
 
 ## General Data Science Projects
    - [US Birth Data Analysis](https://github.com/mrmushfiq/data-science-portfolio/blob/master/us_births/us_births.ipynb): Analysis of US births data
